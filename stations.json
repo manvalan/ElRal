@@ -1,0 +1,382 @@
+{
+    "stations": [
+        {
+            "CODE": 1,
+            "NAME": "Flostirion",
+            "X": 0,
+            "Y": 20,
+            "CAT": 3
+        },
+        {
+            "CODE": 2,
+            "NAME": "WhiteTowers",
+            "X": 2,
+            "Y": 20,
+            "CAT": 3
+        },
+        {
+            "CODE": 3,
+            "NAME": "Undertower",
+            "X": 4,
+            "Y": 20,
+            "CAT": 1
+        },
+        {
+            "CODE": 4,
+            "NAME": "Westmarch",
+            "X": 6,
+            "Y": 20,
+            "CAT": 3
+        },
+        {
+            "CODE": 5,
+            "NAME": "Greenholm",
+            "X": 8,
+            "Y": 20,
+            "CAT": 3
+        },
+        {
+            "CODE": 6,
+            "NAME": "Foxdown",
+            "X": 10,
+            "Y": 20,
+            "CAT": 3
+        },
+        {
+            "CODE": 7,
+            "NAME": "Micheldelving",
+            "X": 12,
+            "Y": 20,
+            "CAT": 1
+        },
+        {
+            "CODE": 8,
+            "NAME": "Whitedowns",
+            "X": 14,
+            "Y": 20,
+            "CAT": 3
+        },
+        {
+            "CODE": 9,
+            "NAME": "Waymeet",
+            "X": 16,
+            "Y": 20,
+            "CAT": 3
+        },
+        {
+            "CODE": 10,
+            "NAME": "Withwell",
+            "X": 16,
+            "Y": 18,
+            "CAT": 3
+        },
+        {
+            "CODE": 11,
+            "NAME": "Tuk",
+            "X": 16,
+            "Y": 16,
+            "CAT": 1
+        },
+        {
+            "CODE": 12,
+            "NAME": "Tukborrow",
+            "X": 18,
+            "Y": 16,
+            "CAT": 3
+        },
+        {
+            "CODE": 13,
+            "NAME": "Tuckland",
+            "X": 20,
+            "Y": 16,
+            "CAT": 3
+        },
+        {
+            "CODE": 14,
+            "NAME": "Bywater",
+            "X": 18,
+            "Y": 20,
+            "CAT": 1
+        },
+        {
+            "CODE": 15,
+            "NAME": "Frogmorton",
+            "X": 24,
+            "Y": 20,
+            "CAT": 3
+        },
+        {
+            "CODE": 16,
+            "NAME": "Withfurrows",
+            "X": 27,
+            "Y": 20,
+            "CAT": 3
+        },
+        {
+            "CODE": 17,
+            "NAME": "Bridge",
+            "X": 30,
+            "Y": 20,
+            "CAT": 3
+        },
+        {
+            "CODE": 18,
+            "NAME": "Newbury",
+            "X": 30,
+            "Y": 18,
+            "CAT": 3
+        },
+        {
+            "CODE": 19,
+            "NAME": "Brandyhall",
+            "X": 30,
+            "Y": 16,
+            "CAT": 1
+        },
+        {
+            "CODE": 20,
+            "NAME": "Bywaterpool",
+            "X": 18,
+            "Y": 22,
+            "CAT": 2
+        },
+        {
+            "CODE": 21,
+            "NAME": "TheStone",
+            "X": 22,
+            "Y": 16,
+            "CAT": 3
+        },
+        {
+            "CODE": 22,
+            "NAME": "Stockroad",
+            "X": 22,
+            "Y": 14,
+            "CAT": 3
+        },
+        {
+            "CODE": 23,
+            "NAME": "TheYale",
+            "X": 25,
+            "Y": 14,
+            "CAT": 3
+        },
+        {
+            "CODE": 24,
+            "NAME": "Stock",
+            "X": 27,
+            "Y": 14,
+            "CAT": 3
+        },
+        {
+            "CODE": 25,
+            "NAME": "Buckelburyferry",
+            "X": 30,
+            "Y": 14,
+            "CAT": 3
+        },
+        {
+            "CODE": 26,
+            "NAME": "Greenhillcountry",
+            "X": 22,
+            "Y": 12,
+            "CAT": 3
+        },
+        {
+            "CODE": 27,
+            "NAME": "Greenhill",
+            "X": 22,
+            "Y": 10,
+            "CAT": 3
+        },
+        {
+            "CODE": 28,
+            "NAME": "Pincup",
+            "X": 22,
+            "Y": 8,
+            "CAT": 3
+        },
+        {
+            "CODE": 29,
+            "NAME": "Whistilebrook",
+            "X": 24,
+            "Y": 8,
+            "CAT": 3
+        },
+        {
+            "CODE": 30,
+            "NAME": "WoodyEnd",
+            "X": 26,
+            "Y": 8,
+            "CAT": 3
+        },
+        {
+            "CODE": 31,
+            "NAME": "WillowBottom",
+            "X": 28,
+            "Y": 8,
+            "CAT": 3
+        },
+        {
+            "CODE": 32,
+            "NAME": "DeepHallow",
+            "X": 30,
+            "Y": 8,
+            "CAT": 3
+        },
+        {
+            "CODE": 33,
+            "NAME": "Rush",
+            "X": 30,
+            "Y": 11,
+            "CAT": 3
+        },
+        {
+            "CODE": 34,
+            "NAME": "Bottle",
+            "X": 13,
+            "Y": 38,
+            "CAT": 3
+        },
+        {
+            "CODE": 35,
+            "NAME": "Gamwich",
+            "X": 13,
+            "Y": 26,
+            "CAT": 3
+        },
+        {
+            "CODE": 36,
+            "NAME": "Tighfield",
+            "X": 16,
+            "Y": 26,
+            "CAT": 3
+        },
+        {
+            "CODE": 37,
+            "NAME": "Littledelvings",
+            "X": 16,
+            "Y": 24,
+            "CAT": 3
+        },
+        {
+            "CODE": 38,
+            "NAME": "Westbank",
+            "X": 16,
+            "Y": 22,
+            "CAT": 3
+        },
+        {
+            "CODE": 39,
+            "NAME": "Greenfield",
+            "X": 18,
+            "Y": 40,
+            "CAT": 3
+        },
+        {
+            "CODE": 40,
+            "NAME": "Longeve",
+            "X": 18,
+            "Y": 38,
+            "CAT": 3
+        },
+        {
+            "CODE": 41,
+            "NAME": "Nobottle",
+            "X": 18,
+            "Y": 36,
+            "CAT": 3
+        },
+        {
+            "CODE": 42,
+            "NAME": "Needhole",
+            "X": 18,
+            "Y": 34,
+            "CAT": 3
+        },
+        {
+            "CODE": 43,
+            "NAME": "RushrockBag",
+            "X": 18,
+            "Y": 32,
+            "CAT": 3
+        },
+        {
+            "CODE": 44,
+            "NAME": "Bagend",
+            "X": 18,
+            "Y": 30,
+            "CAT": 3
+        },
+        {
+            "CODE": 45,
+            "NAME": "Overthehill",
+            "X": 18,
+            "Y": 28,
+            "CAT": 3
+        },
+        {
+            "CODE": 46,
+            "NAME": "TheHill",
+            "X": 18,
+            "Y": 26,
+            "CAT": 3
+        },
+        {
+            "CODE": 47,
+            "NAME": "Hobbiton",
+            "X": 18,
+            "Y": 24,
+            "CAT": 3
+        },
+        {
+            "CODE": 48,
+            "NAME": "GirdlayIsland",
+            "X": 22,
+            "Y": 38,
+            "CAT": 3
+        },
+        {
+            "CODE": 49,
+            "NAME": "Quary",
+            "X": 22,
+            "Y": 36,
+            "CAT": 3
+        },
+        {
+            "CODE": 50,
+            "NAME": "Scary",
+            "X": 22,
+            "Y": 34,
+            "CAT": 3
+        },
+        {
+            "CODE": 51,
+            "NAME": "Dwaling",
+            "X": 22,
+            "Y": 32,
+            "CAT": 3
+        },
+        {
+            "CODE": 52,
+            "NAME": "Brockenboring",
+            "X": 22,
+            "Y": 30,
+            "CAT": 3
+        },
+        {
+            "CODE": 53,
+            "NAME": "Oatbarton",
+            "X": 22,
+            "Y": 26,
+            "CAT": 3
+        },
+        {
+            "CODE": 54,
+            "NAME": "Thenorthfarthing",
+            "X": 22,
+            "Y": 22,
+            "CAT": 3
+        }
+    ]
+}

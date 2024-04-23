@@ -1,0 +1,80 @@
+{
+	"lines": [
+		{
+			"line": {
+				"name": "TEST A",
+				"track": [
+                    {
+                        "node": 14,
+                        "stop": "true"
+                    },
+                    {
+                        "node": 20,
+                        "stop": "true"
+                    },
+					{
+						"node": 21,
+						"stop": "true"
+					},
+					{
+                        "node": 22,
+                        "stop": "true"
+                    },
+                    {
+                        "node": 23,
+                        "stop": "true"
+                    },{
+                        "node": 24,
+                        "stop": "true"
+                    },
+                    {
+                        "node": 25,
+                        "stop": "true"
+                    },
+                    {
+                        "node": 19,
+                        "stop": "true"
+                    }
+				]
+			}
+        },
+        {
+            "line": {
+                "name": "TEST B",
+                "track": [
+                    {
+                        "node": 19,
+                        "stop": "true"
+                    },
+                    {
+                        "node": 25,
+                        "stop": "true"
+                    },
+                    {
+                        "node": 24,
+                        "stop": "true"
+                    },{
+                        "node": 23,
+                        "stop": "true"
+                    },
+                    {
+                        "node": 22,
+                        "stop": "true"
+                    },
+                    {
+                        "node": 21,
+                        "stop": "true"
+                    },
+                    {
+                        "node": 20,
+                        "stop": "true"
+                    },
+                    {
+                        "node": 14,
+                        "stop": "true"
+                    }
+                ]
+            }
+        }
+	]
+}

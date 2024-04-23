@@ -1,0 +1,569 @@
+{
+	"lines": [
+		{
+			"line": {
+				"name": "AV",
+				"color": "y",
+                "weight": 6,
+				"edge": [
+					{
+						"from": 3,
+						"to": 4,
+                        "lenght": 21,
+                        "speed":300,
+                        "tracks":2
+					},
+					{
+						"from": 4,
+						"to": 5,
+                        "lenght": 24,
+                        "speed":300,
+                        "tracks":2
+					},
+					{
+						"from": 5,
+						"to": 6,
+                        "lenght": 22,
+                        "speed":300,
+                        "tracks":2
+					},
+					{
+						"from": 6,
+						"to": 7,
+                        "lenght": 21,
+                        "speed":300,
+                        "tracks":2
+					},
+					{
+						"from": 7,
+						"to": 8,
+                        "lenght": 22,
+                        "speed":300,
+                        "tracks":2
+					},
+					{
+						"from": 8,
+						"to": 9,
+                        "lenght": 13,
+                        "speed":300,
+                        "tracks":2
+					},
+					{
+						"from": 9,
+						"to": 10,
+                        "lenght": 14,
+                        "speed":300,
+                        "tracks":2
+					},
+					{
+						"from": 10,
+						"to": 11,
+                        "lenght": 10,
+                        "speed":300,
+                        "tracks":2
+					},
+					{
+						"from": 11,
+						"to": 12,
+                        "lenght": 8,
+                        "speed":300,
+                        "tracks":2
+					},
+					{
+						"from": 12,
+						"to": 14,
+                        "lenght": 20,
+                        "speed":300,
+                        "tracks":2
+					},
+					{
+						"from": 14,
+						"to": 15,
+                        "lenght": 20,
+                        "speed":300,
+                        "tracks":2
+					},
+					{
+						"from": 15,
+						"to": 16,
+                        "lenght": 16,
+                        "speed":300,
+                        "tracks":2
+					},
+					{
+						"from": 16,
+						"to": 17,
+                        "lenght": 17,
+                        "speed":300,
+                        "tracks":2
+					},
+					{
+						"from": 17,
+						"to": 18,
+                        "lenght": 16,
+                        "speed":300,
+                        "tracks":2
+					},
+					{
+						"from": 18,
+						"to": 19,
+                        "lenght": 15,
+                        "speed":300,
+                        "tracks":2
+					}
+				]
+			}
+		},
+        {
+			"line": {
+				"name": "Blue",
+				"color": "b",
+                "weight": 3,
+				"edge": [
+                    {
+						"from": 1,
+						"to": 2,
+                        "lenght": 14,
+                        "speed":160,
+                        "tracks":2
+					},
+                    {
+						"from": 2,
+						"to": 3,
+                        "lenght": 12,
+                        "speed":160,
+                        "tracks":2
+					},
+					{
+						"from": 3,
+						"to": 4,
+                        "lenght": 21,
+                        "speed":160,
+                        "tracks":2
+					},
+					{
+						"from": 4,
+						"to": 5,
+                        "lenght": 24,
+                        "speed":160,
+                        "tracks":2
+					},
+					{
+						"from": 5,
+						"to": 6,
+                        "lenght": 22,
+                        "speed":160,
+                        "tracks":2
+					},
+					{
+						"from": 6,
+						"to": 7,
+                        "lenght": 21,
+                        "speed":160,
+                        "tracks":2
+					},
+					{
+						"from": 7,
+						"to": 8,
+                        "lenght": 22,
+                        "speed":160,
+                        "tracks":2
+					},
+					{
+						"from": 8,
+						"to": 9,
+                        "lenght": 13,
+                        "speed":160,
+                        "tracks":2
+					},
+					{
+						"from": 9,
+						"to": 14,
+                        "lenght": 15,
+                        "speed":160,
+                        "tracks":2
+					},
+				    {
+                        "from": 14,
+                        "to": 15,
+                        "lenght": 20,
+                        "speed":160,
+                        "tracks":2
+                    },
+                    {
+                        "from": 15,
+                        "to": 16,
+                        "lenght": 16,
+                        "speed":160,
+                        "tracks":2
+                    },
+                    {
+                        "from": 16,
+                        "to": 17,
+                        "lenght": 17,
+                        "speed":160,
+                        "tracks":2
+                    },
+                    {
+                        "from": 17,
+                        "to": 18,
+                        "lenght": 16,
+                        "speed":160,
+                        "tracks":2
+                    },
+                    {
+                        "from": 18,
+                        "to": 19,
+                        "lenght": 15,
+                        "speed":160,
+                        "tracks":2
+                    },
+					{
+						"from": 14,
+						"to": 15,
+                        "lenght": 20,
+                        "speed":160,
+                        "tracks":2
+					},
+					{
+						"from": 15,
+						"to": 16,
+                        "lenght": 16,
+                        "speed":160,
+                        "tracks":2
+					},
+					{
+						"from": 16,
+						"to": 17,
+                        "lenght": 17,
+                        "speed":160,
+                        "tracks":2
+					},
+					{
+						"from": 17,
+						"to": 18,
+                        "lenght": 16,
+                        "speed":160,
+                        "tracks":2
+					},
+					{
+						"from": 18,
+						"to": 19,
+                        "lenght": 15,
+                        "speed":160,
+                        "tracks":2
+					},
+                    {
+						"from": 14,
+						"to": 20,
+                        "lenght": 3,
+                        "speed":160,
+                        "tracks":2
+					},
+                    {
+						"from": 20,
+						"to": 21,
+                        "lenght": 12,
+                        "speed":160,
+                        "tracks":2
+					},
+					{
+						"from": 21,
+						"to": 22,
+                        "lenght": 11,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 22,
+						"to": 23,
+                        "lenght": 12,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 23,
+						"to": 24,
+                        "lenght": 14,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 24,
+						"to": 25,
+                        "lenght": 12,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 25,
+						"to": 19,
+                        "lenght": 5,
+                        "speed":160,
+                        "tracks":2
+					},
+					{
+						"from": 22,
+						"to": 26,
+                        "lenght": 10,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 26,
+						"to": 27,
+                        "lenght": 10,
+                        "speed":140,
+                        "tracks":1
+					},
+				    {
+                        "from": 27,
+                        "to": 28,
+                        "lenght": 10,
+                        "speed":140,
+                        "tracks":1
+                    },
+                    {
+                        "from": 28,
+                        "to": 29,
+                        "lenght": 21,
+                        "speed":140,
+                        "tracks":1
+                    },
+                    {
+                        "from": 29,
+                        "to": 30,
+                        "lenght": 12,
+                        "speed":140,
+                        "tracks":1
+                    },
+                    {
+                        "from": 30,
+                        "to": 31,
+                        "lenght": 18,
+                        "speed":140,
+                        "tracks":1
+                    },
+                    {
+                        "from": 31,
+                        "to": 32,
+                        "lenght": 25,
+                        "speed":140,
+                        "tracks":1
+                    },
+					{
+						"from": 32,
+						"to": 33,
+                        "lenght": 14,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 33,
+						"to": 25,
+                        "lenght": 12,
+                        "speed":140,
+                        "tracks":1
+					},
+                    {
+						"from": 20,
+						"to": 47,
+                        "lenght": 10,
+                        "speed":140,
+                        "tracks":1
+					},
+                    {
+						"from": 47,
+						"to": 46,
+                        "lenght": 4,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 46,
+						"to": 45,
+                        "lenght": 8,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 45,
+						"to": 44,
+                        "lenght": 9,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 44,
+						"to": 43,
+                        "lenght": 20,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 43,
+						"to": 42,
+                        "lenght": 20,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 42,
+						"to": 41,
+                        "lenght": 20,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 41,
+						"to": 40,
+                        "lenght": 22,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 41,
+						"to": 39,
+                        "lenght": 20,
+                        "speed":140,
+                        "tracks":1
+					},
+                    {
+						"from": 20,
+						"to": 54,
+                        "lenght": 12,
+                        "speed":140,
+                        "tracks":1
+					},
+                    {
+						"from": 54,
+						"to": 53,
+                        "lenght": 8,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 53,
+						"to": 52,
+                        "lenght": 6,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 52,
+						"to": 51,
+                        "lenght": 6,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 51,
+						"to": 50,
+                        "lenght": 12,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 50,
+						"to": 49,
+                        "lenght": 12,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 49,
+						"to": 48,
+                        "lenght": 10,
+                        "speed":140,
+                        "tracks":1
+					},
+                    {
+						"from": 21,
+						"to": 13,
+                        "lenght": 16,
+                        "speed":140,
+                        "tracks":1
+					},
+                    {
+						"from": 13,
+						"to": 12,
+                        "lenght": 8,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 12,
+						"to": 11,
+                        "lenght": 8,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 11,
+						"to": 10,
+                        "lenght": 10,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 10,
+						"to": 9,
+                        "lenght": 14,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 9,
+						"to": 38,
+                        "lenght": 23,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 38,
+						"to": 37,
+                        "lenght": 23,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 37,
+						"to": 36,
+                        "lenght": 21,
+                        "speed":140,
+                        "tracks":1
+					},
+					{
+						"from": 36,
+						"to": 35,
+                        "lenght": 22,
+                        "speed":140,
+                        "tracks":1
+					},
+                    {
+						"from": 35,
+						"to": 34,
+                        "lenght": 22,
+                        "speed":140,
+                        "tracks":1
+					},
+                    {
+						"from": 34,
+						"to": 40,
+                        "lenght": 26,
+                        "speed":140,
+                        "tracks":1
+					},
+                    {
+						"from": 43,
+						"to": 51,
+                        "lenght": 22,
+                        "speed":140,
+                        "tracks":1
+					}
+
+				]
+			}
+        }
+	]
+}
